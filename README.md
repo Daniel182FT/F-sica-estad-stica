@@ -1,2 +1,2 @@
-# F-sica-estad-stica
+# Fisica Estadistica
 Código de tareas FES
